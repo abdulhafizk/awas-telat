@@ -4,27 +4,27 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Awas Imsak! - Jadwal Sholat & Imsak",
+  title: "Awas Telat! - Jadwal Sholat & Telat",
   icons: {
     icon: '/brand.ico'
   },
-  description: "Awas Imsak! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses",
-  applicationName: 'Awas Imsak!',
+  description: "Awas Telat! adalah portal yang menghadirkan jadwal sholat dan Telat dengan akurat dan mudah diakses",
+  applicationName: 'Awas Telat!',
   referrer: 'origin-when-cross-origin',
-  keywords: ['puasa', 'imsak', 'sholat', 'ramadhan', 'jadwal imsak', 'jadwal sholat', 'quran', 'baca quran', 'puasa ramadhan', 'bulan ramadhan'],
-  authors: [{ name: 'Klaw' }, { name: 'Muhammad Dimas', url: 'https://klaw.my.id' }],
-  creator: 'Klaw',
-  publisher: 'RIOT REVENGER',
+  keywords: ['puasa', 'Telat', 'sholat', 'ramadhan', 'jadwal Telat', 'jadwal sholat', 'quran', 'baca quran', 'puasa ramadhan', 'bulan ramadhan'],
+  authors: [{ name: 'Accesso' }, { name: 'Abdul Hafizh Kustiwan', url: 'https://github.com/abdulhafizk' }],
+  creator: 'Accesso',
+  publisher: 'Masyamrif Code Editor',
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
   openGraph: {
-    title: 'Awas Imsak! - Jadwal Sholat & Imsak',
-    description: 'Awas Imsak! adalah portal yang menghadirkan jadwal sholat dan imsak dengan akurat dan mudah diakses',
-    url: 'https://imsak.my.id',
-    siteName: 'Awas Imsak!',
+    title: 'Awas Telat! - Jadwal Sholat & Telat',
+    description: 'Awas Telat! adalah portal yang menghadirkan jadwal sholat dan Telat dengan akurat dan mudah diakses',
+    url: 'https://awas-telat-zm2s.vercel.app/',
+    siteName: 'Awas Telat!',
     type: 'website',
   },
 };
