@@ -174,7 +174,7 @@ const Hero = () => {
             data-aos-delay="1000"
             data-aos-duration="1000"
           >
-            Awas <br /> Imsak!
+            Awas <br /> Telat!
           </p>
           <div
             data-aos="fade-up"
@@ -185,9 +185,9 @@ const Hero = () => {
               effect="downTop"
               duration={500}
               data={[
-                "Awas Imsak! hadir untuk teman-teman yang suka sahur jam 12 siang",
+                "Awas Telat! hadir untuk teman-teman yang suka sahur jam 12 siang",
                 "Masa puasa 30 hari doang ga bisa sih bang?",
-                "Awas Imsak! Puasa Tenang, Hati Gembirang.",
+                "Awas Telat! Puasa Tenang, Hati Gembirang.",
               ]}
               className="opensans text-[15px]"
             />
@@ -341,8 +341,8 @@ const Hero = () => {
                   data-aos-delay="1400"
                   data-aos-duration="1000"
                 >
-                  <span className="font-semibold">Imsak:</span>
-                  <span>{prayerSchedule.imsak}</span>
+                  <span className="font-semibold">Telat:</span>
+                  <span>{prayerSchedule.Telat}</span>
                 </div>
 
                 <div
